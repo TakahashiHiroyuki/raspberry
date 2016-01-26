@@ -1,8 +1,8 @@
 wiringPiをインストール
 $ sudo apt-get install git
-$ git clone git://git.drogon.net/wiringPi
-$ cd wiringPi
-$ ./build
+$ git clone https://github.com/WiringPi/WiringPi.git
+$ cd /WiringPi/wiringPi
+$ sudo ./build
 
 コマンドを実行
 $ cd ..
